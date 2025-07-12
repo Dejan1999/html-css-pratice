@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: "Source Code Pro", monospace;
+}
+
+body {
+    margin: 0;
+    background-color: beige;
+}
+
+.about-me-header {
+    border: 2px solid rgb(135, 135, 168);
+    padding: 20px;
+}
+
+.about-me-nav {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid rgb(210, 80, 80);
+}
+
+.about-me-nav a {
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+
+.about-me-nav a:hover {
+    color: darkblue;
+}
+
+.about-me-footer {
+    border: 1px solid rgb(188, 124, 4);
+    padding: 20px;
+}
+
+.about-me-footer h2 {
+    margin: 15px;
+    padding: 25px;
+    height: 40px;
+    width: 50%;
+    color: red;
+}
