@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: aquamarine;
+}
+
+.page-wrapper {
+    display: flex;
+    border: 1px solid black;
+}
+
+.sidebar {
+    width: 25%;
+    border: 1px groove red;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.content {
+    width: 75%;
+    border: 1px dotted orange;
+    padding: 20px;
+}
