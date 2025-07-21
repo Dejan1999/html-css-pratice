@@ -1,0 +1,13 @@
+.grid-2 {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.grid-header,
+.grid-content,
+.grid-footer {
+    background: lightcoral;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
