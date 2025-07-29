@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #efefef;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+header {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  border-radius: 15px;
+}
